@@ -23,7 +23,7 @@ Driver fatigue is a major cause of road accidents. This project uses **computer 
 ## 🛠 **Installation & Setup**
 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/Driver-Anomaly-Detection.git
+git clone https://github.com/vinay2201/Driver-Anomaly-Detection.git
 cd Driver-Anomaly-Detection
 ```
 
